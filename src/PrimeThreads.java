@@ -33,7 +33,6 @@ public class PrimeThreads {
             }
         }
     }
-
     private void displayResult(PrimeFinder finder) {
         System.out.println("Prime " + finder.target
                 + " is " + finder.prime);
