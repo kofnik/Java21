@@ -32,3 +32,5 @@ public class IconFrame extends JFrame {
         IconFrame ike = new IconFrame();
     }
 }
+
+//some text
