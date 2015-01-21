@@ -53,10 +53,20 @@ public class TestClass {
         Looping through array list and printing out index number and data relating to that index
          */
 
+
+        //#######################################################
+        //#######  Remember this way of looping!!!  #############
+        //#######################################################
+
         System.out.println();
         int index = 0;
         for (Object s : golfer)
             System.out.println((index++) + ": " + s);
+
+
+        //########################################
+        //###  Read more about autoboxing!!!  ####
+        //########################################
 
 
         System.out.println();
